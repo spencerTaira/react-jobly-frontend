@@ -1,0 +1,19 @@
+.CompanyCard {
+    box-shadow: 2px 2px 1px #8f9697;
+    margin: 40px auto 0;
+    background-color: white;
+    padding: 10px;
+    width: 85%;
+}
+
+a {
+    text-decoration: none;
+    font-size: small;
+    text-align: left;
+    color: #322c2c;
+}
+
+.CompanyCard img {
+    width: 50px;
+    float: right;
+}

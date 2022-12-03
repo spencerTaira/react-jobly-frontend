@@ -1,0 +1,19 @@
+.HomePage {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -55%);
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.HomePage p {
+    font-size: 2em;
+}
