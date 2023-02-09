@@ -17,3 +17,7 @@ h1 {
 .HomePage p {
     font-size: 2em;
 }
+
+.HomePage button {
+    margin: 10px;
+}

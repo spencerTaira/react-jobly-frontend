@@ -7,6 +7,7 @@ nav {
 
 a {
     color: #1f1fd7;
+    margin: 5px;
 }
 
 .Navigation-left {
@@ -28,7 +29,12 @@ a {
 .Navigation-Link-Companies {
     text-decoration: none;
 }
+
 .Navigation-Link-Jobs {
-    margin-left: 20px;
+    /* margin-left: 20px; */
     text-decoration: none;
+}
+
+.Navigation-Link-Logout {
+    margin-left: 20px;
 }
